@@ -1,0 +1,9 @@
+names:
+  0: laptop
+  1: charger
+  2: books
+  3: phone
+  4: calculator
+  5: earphone
+train: /content/data/images/train
+val: /content/data/images/val
